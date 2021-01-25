@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: My Facebook Tags
+ * Plugin Name: My Facebook Tags Tutorial
  * Plugin URI: http://
  * Description: This plugin adds some Facebook Open Graph tags to our single posts.
  * Version: 1.0.0
